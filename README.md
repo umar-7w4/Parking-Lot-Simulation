@@ -26,10 +26,6 @@ This project is a web-based parking lot simulation developed purely using HTML a
 - Adding user interaction to control car movements.
 - Implementing JavaScript for more complex animations and interactions.
 
-## Contributing
-
-Contributions to the project are welcome! Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
-
 ## License
 
 This project is licensed under the @2023 Umar Mohammad
